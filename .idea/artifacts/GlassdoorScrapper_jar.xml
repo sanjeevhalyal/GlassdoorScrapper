@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GlassdoorScrapper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GlassdoorScrapper_jar</output-path>
+    <root id="archive" name="GlassdoorScrapper.jar">
+      <element id="module-output" name="GlassdoorScrapper" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/db/h2-latest.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Library/jsoup-1.10.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
